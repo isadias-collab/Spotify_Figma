@@ -7,4 +7,5 @@ Mockup:
 
 <img width="333" height="332" alt="image" src="https://github.com/user-attachments/assets/c358d9f3-81ff-49dd-8191-17cb7887a10f" /> 
 
+💚💚💚
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.makeagif.com/media/10-27-2022/5yre7c.gif">
