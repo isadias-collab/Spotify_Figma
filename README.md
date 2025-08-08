@@ -1,8 +1,8 @@
 # Spotify_Figma
 Neste trabalho, desenvolvido no Figma, executei três etapas inspiradas no Spotify. A primeira foi a tela com o logo, servindo como abertura do aplicativo. Em seguida, criei a tela de login, mantendo o estilo visual da marca. Por fim, elaborei a tela inicial do app, adicionando transições entre as telas, simulando a navegação real do Spotify.
 
-💚💚💚
 
+_____________________________________________________________________________
 
 Mockup:
 
