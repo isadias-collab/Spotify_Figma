@@ -9,7 +9,7 @@ Mockup:
  
   <img width="333" height="332" alt="image" src="https://github.com/user-attachments/assets/c358d9f3-81ff-49dd-8191-17cb7887a10f" />                                  
   
- 🟩🟩
+                      🟩🟩
 
 
  
